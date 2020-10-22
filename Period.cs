@@ -17,8 +17,8 @@ namespace NodaTime
 {
     /// <summary>
     /// </summary>
-	/// this is a comment!! Codice
-    /// <remarks>
+	/// this is a comment!! Codice!!
+    /// <remarks>!
     /// <para>
     /// A <see cref="Period"/> contains a set of properties such as <see cref="Years"/>, <see cref="Months"/>, and so on
     /// that return the number of each unit contained within this period. Note that these properties are not normalized in
