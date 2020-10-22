@@ -16,9 +16,8 @@ using NodaTime.Utility;
 namespace NodaTime
 {
     /// <summary>
-    /// Represents a period of time expressed in human chronological terms: hours, days,
-    /// weeks, months and so on.
     /// </summary>
+	/// this is a comment!! Codice
     /// <remarks>
     /// <para>
     /// A <see cref="Period"/> contains a set of properties such as <see cref="Years"/>, <see cref="Months"/>, and so on
