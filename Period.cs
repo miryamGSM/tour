@@ -17,7 +17,7 @@ namespace NodaTime
 {
     /// <summary>
     /// </summary>
-	/// this is a comment!! Codice!!
+	/// this is a comment!! Codice!!!!
     /// <remarks>!
     /// <para>
     /// A <see cref="Period"/> contains a set of properties such as <see cref="Years"/>, <see cref="Months"/>, and so on
